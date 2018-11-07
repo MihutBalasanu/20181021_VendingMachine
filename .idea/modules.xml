@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20181021_VendingMachine.iml" filepath="$PROJECT_DIR$/20181021_VendingMachine.iml" />
+      <module fileurl="file://$USER_HOME$/Lidia.iml" filepath="$USER_HOME$/Lidia.iml" />
+      <module fileurl="file://$USER_HOME$/WS/WS.iml" filepath="$USER_HOME$/WS/WS.iml" />
+    </modules>
+  </component>
+</project>
